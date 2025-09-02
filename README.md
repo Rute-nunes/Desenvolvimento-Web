@@ -8,3 +8,4 @@ Thomaz Maia de Almeida
 * Figma
 ### Atividades Relacionadas a Diciplina:
 * https://rute-nunes.github.io/Atividade-1/
+* https://rute-nunes.github.io/Atividade-2/
