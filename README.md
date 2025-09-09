@@ -9,3 +9,4 @@ Thomaz Maia de Almeida
 ### Atividades Relacionadas a Diciplina:
 * https://rute-nunes.github.io/Atividade-1/
 * https://rute-nunes.github.io/Atividade-2/
+* https://rute-nunes.github.io/Atividade-3/
