@@ -17,8 +17,8 @@
 * <https://rute-nunes.github.io/Atividade-4/>
 * <https://rute-nunes.github.io/Atividade-5/>
 * <https://rute-nunes.github.io/Atividade-6/>
-*
-*
+* <https://rute-nunes.github.io/Atividade-7/>
+* <https://rute-nunes.github.io/Atividade-8/>
 * <https://rute-nunes.github.io/Atividade-9/>
 * <https://rute-nunes.github.io/Atividade-10/>
 * <https://rute-nunes.github.io/Atividade-11/>
